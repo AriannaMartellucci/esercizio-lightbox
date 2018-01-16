@@ -1,0 +1,28 @@
+body{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1{
+    font-family: 'Satisfy', cursive !important;
+    font-size: 3em !important;
+}
+
+h3{
+    font-family: 'Questrial', sans-serif !important;
+}
+
+.example-image{
+    margin: 5px;
+    width: 300px;
+}
